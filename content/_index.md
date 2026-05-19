@@ -4,7 +4,7 @@ title: "Equatore"
 draft: false
 
 ---
-<img src="{{ "images/header.png" | relURL }}" style="width:100%; max-width:800px;">
+<img src="/equatorenext/images/header.png" style="width:100%; max-width:800px;">
 
 # Associazione Equatore Onlus Associazione Orizzonte Ediesse
 
