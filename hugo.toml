@@ -49,5 +49,5 @@ disableLanguages = ["en"]
   weight = 40
   
   
-  [outputs]
+[outputs]
   home = ["HTML", "RSS", "JSON"]
