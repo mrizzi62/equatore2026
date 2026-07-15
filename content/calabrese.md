@@ -5,7 +5,7 @@ title = "Alfredo Calabrese"
 +++
 
 
-<img src="/images/calabrese.jpg" 
+<img src="{{ "images/calabrese.jpg" | relURL }}" 
   style="float:left; width:300px; margin:0 20px 10px 0;">
 
 

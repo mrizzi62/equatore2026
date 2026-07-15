@@ -11,7 +11,7 @@ Tra i soci vi erano esperti professionisti qualificati in scienze umane e social
 Le associazioni avevano scopi e obiettivi tra loro diversi, individuabili già nei loro loghi.
 
 <p>
-<img src="/images/logo_eq.png" 
+<img src="{{ "images/logo_eq.png" | relURL }}" 
   style="float:left; width:200px; margin:0 20px 10px 0;">
 </p>
 
