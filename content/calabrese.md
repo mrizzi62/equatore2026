@@ -5,9 +5,8 @@ title = "Alfredo Calabrese"
 +++
 
 
-<img src="{{ "images/calabrese.jpg" | relURL }}" 
+<img src="{{ "images/calabrese.jpg" | relURL }}"
   style="float:left; width:300px; margin:0 20px 10px 0;">
-
 
 Alfredo Calabrese (1958-2013) è stato uno psicologo, psicoterapeuta e antropologo, promotore e fondatore delle associazioni Equatore Onlus e Orizzonte Ediesse.
 
