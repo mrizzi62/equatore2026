@@ -1,10 +1,13 @@
 {{ define "main" }}
 
 <main class="mx-auto px-6 py-4" style="max-width:800px;">
-  <a href="/">
-    <img src="/images/header.png"
-         style="width:100%;">
-  </a>
+
+<a href="{{ site.Home.RelPermalink }}">
+  <img src="{{ "images/header.png" | relURL }}"
+       alt="Equatore"
+       style="width:100%;">
+</a>
+
 <article class="equatore-content prose dark:prose-invert max-w-none">
 
     <h1>{{ .Title }}</h1>

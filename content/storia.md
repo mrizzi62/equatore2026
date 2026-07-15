@@ -10,10 +10,7 @@ Tra i soci vi erano esperti professionisti qualificati in scienze umane e social
 
 Le associazioni avevano scopi e obiettivi tra loro diversi, individuabili già nei loro loghi.
 
-<p>
-<img src="{{ "images/logo_eq.png" | relURL }}" 
-  style="float:left; width:200px; margin:0 20px 10px 0;">
-</p>
+{{< floatimg src="images/logo_eq.png" alt="Logo Equatore" width="200px" >}}
 
 Nella prima versione del logo, che si può vedere qui a lato e che riguardava solo l’Associazione Equatore Onlus, la linea dell’Equatore taglia il planisfero molto più in alto di quanto sia nella realtà. Questa scelta grafica mostra visivamente come il sud del mondo diventi prevalente sul nord negli obiettivi dell’Associazione.
 

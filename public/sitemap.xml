@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/progetti/cibo/</loc>
+    <lastmod>2026-05-14T17:50:08+02:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/progetti/eritrea/</loc>
     <lastmod>2026-05-14T17:50:08+02:00</lastmod>
   </url>
