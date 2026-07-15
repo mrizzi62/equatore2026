@@ -1,14 +1,14 @@
 ---
 
-title: "Equatore"
+title: "Home"
 draft: false
 
 ---
-<img src="/equatorenext/images/header.png" style="width:100%; max-width:800px;">
+<p>
+</p>
 
-# Associazione Equatore Onlus Associazione Orizzonte Ediesse
+# Associazione Equatore Onlus <br> Associazione Orizzonte Ediesse
 
 Questo sito ripercorre la storia delle associazioni Equatore Onlus e Orizzonte Ediesse, attive a Brescia e in Lombardia dal 2004 fino al loro scioglimento, avvenuto nel 2016.
 
-Per scoprire quali sono state le attività delle associazioni,   
-navigate il sito usando il menu in alto a destra.
+Per saperne di più navigate il sito usando il menu in alto.

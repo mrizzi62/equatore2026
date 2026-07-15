@@ -1,7 +1,7 @@
 theme = "blowfish"
 
-baseURL = "https://mrizzi62.github.io/equatorenext/"
-title = ""
+baseURL = "https://equatore.org/"
+title = "Equatore"
 
 defaultContentLanguage = "it"
 locale = "it_IT"
@@ -16,8 +16,8 @@ disableLanguages = ["en"]
 [params]
   defaultTheme = "light"
   header = { layout = "basic" }
+    favicon = "/favicon.ico"
 
-  
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -25,7 +25,7 @@ disableLanguages = ["en"]
       
 [[menu.main]]
   name = "Home"
-  pageRef = "/"
+  pageRef = "_index"
   weight = 1
   
 [[menu.main]]
@@ -47,3 +47,7 @@ disableLanguages = ["en"]
   name = "Contatti"
   pageRef = "contatti"
   weight = 40
+  
+  
+  [outputs]
+  home = ["HTML", "RSS", "JSON"]
