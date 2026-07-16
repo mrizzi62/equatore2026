@@ -5,4 +5,4 @@ title = "Contatti"
 +++
 
 
-Per richiedere qualunque informazione scrivere a info at equatore punto org.
+Per richiedere qualunque informazione scrivere a equatoreonlus at yahoo punto com.
