@@ -20,7 +20,7 @@ Il logo di Equatore raffigura una bussola con l’ago che indica il sud. L’amb
 
 L’acronimo EDS, da cui Orizzonte Ediesse ha preso il nome, significa “Educazione, diritti, salute”. L’enfasi è quindi sull’individuo e sui suoi diritti, sulla formazione, sulla cultura. Il logo di Orizzonte rappresenta una lente puntata sulla persona, a indicare l’indagine attenta e scrupolosa. Orizzonte era un’associazione di promozione sociale che svolgeva la propria azione a favore di persone e comunità svantaggiate, sia in Italia che all'estero.
 
-Le due associazioni operavano in modo coordinato, ciascuna nel proprio ambito di competenza.
+Le due associazioni operavano in modo coordinato, ciascuna nel proprio ambito di competenza. Lo si può vedere graficamente nel legame tra i due loghi, che diventano due pezzi di un puzzle, ciascuno diverso dall’altro ma uniti e coordinati a formare un insieme.
 
 Equatore e Orizzonte sono state formalmente sciolte nel 2016, ma le attività si erano già molto ridotte a partire dal 2013, dopo la scomparsa improvvisa del dr. Calabrese.
 
