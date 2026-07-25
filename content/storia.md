@@ -25,3 +25,5 @@ Le due associazioni operavano in modo coordinato, ciascuna nel proprio ambito di
 Equatore e Orizzonte sono state formalmente sciolte nel 2016, ma le attività si erano già molto ridotte a partire dal 2013, dopo la scomparsa improvvisa del dr. Calabrese.
 
 Questo sito vuole essere un segno permanente di quello che Equatore e Orizzonte hanno cercato di fare. La pagina [Progetti](progetti) elenca e descrive i principali progetti in cui le associazioni si sono impegnate. [Documenti](documenti) contiene invece parte del materiale prodotto dai soci nel corso degli anni.
+
+Per chi fosse interessato, è ancora possibile visitare la <a href="https://mrizzi62.github.io/equatore/" target="_blank" rel="noopener noreferrer">prima</a> e la <a href="https://mrizzi62.github.io/equatore2/" target="_blank" rel="noopener noreferrer">seconda</a> versione del sito. 
