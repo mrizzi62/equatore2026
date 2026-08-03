@@ -22,20 +22,21 @@ a.text-base.font-medium.truncate.min-w-0.shrink {
   display: none !important;
 }
 
-main h1,
-main h2,
-main h3 {
-  font-family: Palatino, serif !important;
-  font-weight: 500 !important;
+body {
+  font-family: "Source Sans 3", sans-serif !important;
 }
 
+main h1,
+main h2,
+main h3,
 .equatore-content h1,
 .equatore-content h2,
 .equatore-content h3 {
-  font-family: Garamond, serif !important;
-  font-weight: 500 !important;
+  font-weight: 700 !important;
 }
 
-.prose h1 {
-  line-height: 1.4 !important;
+.prose p,
+.prose li {
+  font-size: 1.1rem !important;
+  line-height: 1.6 !important;
 }

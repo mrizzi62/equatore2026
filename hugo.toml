@@ -16,7 +16,10 @@ disableLanguages = ["en"]
 [params]
   defaultTheme = "light"
   header = { layout = "basic" }
-    favicon = "/favicon.ico"
+  favicon = "/favicon.ico"
+
+  [params.assets]
+    customCSS = ["css/custom.css"]
 
 [markup]
   [markup.goldmark]
