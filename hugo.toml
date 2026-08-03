@@ -54,3 +54,7 @@ disableLanguages = ["en"]
   
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  
+[services]
+  [services.googleAnalytics]
+    id = "G-5FYP0RKNV9"
