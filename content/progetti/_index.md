@@ -15,3 +15,6 @@ Il progetto *Italiani d’Eritrea* si proponeva di studiare il rapporto anche co
 
 ### Minori, cibo e cultura
 Il [progetto](cibo) è stato realizzato tra il 2005 e il 2006 presso l’Istituto secondario “G. Perlasca” di Idro (BS) con lo scopo di approfondire l’importanza del cibo all’interno di una cultura, soprattutto quando questa deve convivere con un’altra cultura predominante, che tende a imporsi su quella di appartenenza.
+
+### Scuola senza frontiere
+Si trattava di un [progetto](frontiere) volto a sostenere la Scuola Internazionale St. Joseph di Nairobi, in Kenya, all’epoca diretta dal prof. Cyprien Bakara, che ha collaborato con Equatore Onlus anche per il progetto *Popoli oppressi e dimenticati*. 
