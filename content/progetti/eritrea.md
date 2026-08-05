@@ -6,7 +6,7 @@ title = ''
 
 # Italiani d’Eritrea
 
-Italiani d’Eritrea è un’iniziativa-ricerca portata avanti da un gruppo di professionisti attivi nelle scienze umane e sociali, nei diritti umani, con competenze in ambito archivistico e con sensibilità coltivate nell’ascolto e nella raccolta di testimonianze e racconti orali. 
+*Italiani d’Eritrea* è un’iniziativa-ricerca portata avanti da un gruppo di professionisti attivi nelle scienze umane e sociali, nei diritti umani, con competenze in ambito archivistico e con sensibilità coltivate nell’ascolto e nella raccolta di testimonianze e racconti orali. 
 
 L’iniziativa è volta ad approfondire la relazione, anche coloniale, fra Italia ed Eritrea. Essa ha portato alla realizzazione di alcuni video-documentari che propongono i racconti di persone italiane ed eritree che hanno voluto incontrarci in Eritrea. Proponiamo questi racconti perché, a nostro avviso, sono significativi per quello che testimoniano dal punto di vista storico, e perché, in una visione più profonda, narrano storie di vita, anche quotidiana, dense di riflessioni e di umanità.
 

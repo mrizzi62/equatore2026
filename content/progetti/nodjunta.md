@@ -6,9 +6,9 @@ title = ''
 
 # Progetto Nô Djunta
 
-Il progetto Nô Djunta è stato un progetto di cooperazione internazionale psicopedagogica, giuridica e socio-sanitaria, rimasto attivo dal 2001 al 2016.
+Il progetto *Nô Djunta* è stato un progetto di cooperazione internazionale psicopedagogica, giuridica e socio-sanitaria, rimasto attivo dal 2001 al 2016.
 
-L’obiettivo generale del progetto No Djunta era la qualificazione e/o la riqualificazione in discipline psico-pedagogiche e socio-sanitarie degli educatori di scuola materna e degli insegnanti di scuola elementare in tutto il territorio della Guinea-Bissau.
+L’obiettivo generale del progetto *Nô Djunta* era la qualificazione e/o la riqualificazione in discipline psico-pedagogiche e socio-sanitarie degli educatori di scuola materna e degli insegnanti di scuola elementare in tutto il territorio della Guinea-Bissau.
 
 La società guineana presentava un alto tasso di analfabetismo, soprattutto nella popolazione femminile. Il sistema scolastico era interamente basato sul modello coloniale portoghese, mentre i sistemi educativi tradizionali sono rimasti confinati nei territori rurali.
 
@@ -19,7 +19,7 @@ Il mito della città e delle opportunità che questa offrirebbe ha attirato, in 
 Le classi politiche e di governo si sono impegnate quasi esclusivamente nel mantenimento dello status quo e nel loro
 autoperpetuarsi.
 
-In questa realtà il Progetto Nô Djunta intendeva utilizzare questi strumenti:
+In questa realtà il Progetto *Nô Djunta* intendeva utilizzare questi strumenti:
 
 - Realizzare un corso triennale di specializzazione-riqualificazione in discipline psicopedagogiche per insegnanti
 della scuola elementare ed educatori di scuola materna già in servizio.

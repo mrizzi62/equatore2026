@@ -6,7 +6,7 @@ title = ''
 
 # Popoli oppressi e dimenticati
 
-Il Progetto “Popoli oppressi e dimenticati: il diritto all’educazione e all’istruzione”, realizzato nell’anno scolastico 2003-2004 in alcuni istituti superiori delle province di Brescia, Lecco e Varese, si proponeva di far conoscere alcuni popoli che, per motivi diversi, non sono noti in Italia o che, quando lo sono, vengono conosciuti in modo distorto o attraverso pregiudizi.
+Il Progetto *Popoli oppressi e dimenticati: il diritto all’educazione e all’istruzione*, realizzato nell’anno scolastico 2003-2004 in alcuni istituti superiori delle province di Brescia, Lecco e Varese, si proponeva di far conoscere alcuni popoli che, per motivi diversi, non sono noti in Italia o che, quando lo sono, vengono conosciuti in modo distorto o attraverso pregiudizi.
 
 Nell’anno scolastico 2003-2004 sono stati trattati i Paesi dell’area africana dei Grandi Laghi, Ruanda e Burundi, e i Balanta, popolo della Guinea Bissau. I relatori sono stati: per i Grandi Laghi il dott. Cyprien Bakara, medico chirurgo, storico e Preside della Scuola Internazionale St. Joseph di Nairobi; per i Balanta il dott. Inquenhe Natanda, laureato in Psicologia dello Sviluppo e dell’Educazione presso l’Università degli Studi di Padova, specializzato in Scienze Pedagogiche e Didattiche presso la medesima Università, docente presso l’Università di Lisbona e consulente del governo della Guinea-Bissau.
 
