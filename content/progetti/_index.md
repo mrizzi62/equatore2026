@@ -18,3 +18,6 @@ Il [progetto](cibo) è stato realizzato tra il 2005 e il 2006 presso l’Istitut
 
 ### Scuola senza frontiere
 Si trattava di un [progetto](frontiere) volto a sostenere la Scuola Internazionale St. Joseph di Nairobi, in Kenya, all’epoca diretta dal prof. Cyprien Bakara, che ha collaborato con Equatore Onlus anche per il progetto *Popoli oppressi e dimenticati*. 
+
+### Servizi offerti
+Le due associazioni offrivano diversi servizi non solo ai soci, ma a chiunque fosse interessato alle tematiche affrontate. Il dettaglio si trova a questa [pagina](servizi).
