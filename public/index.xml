@@ -85,7 +85,7 @@
       <pubDate>Thu, 14 May 2026 17:50:08 +0200</pubDate>
       
       <guid>http://localhost:1313/contatti/</guid>
-      <description>&lt;p&gt;Per richiedere qualunque informazione scrivere a equatoreonlus at yahoo punto com.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Per richiedere informazioni, compilate questo modulo:&lt;/p&gt;&#xA;&lt;form action=&#34;https://formspree.io/f/mwlkpevr&#34; method=&#34;POST&#34;&gt;&#xA;  &lt;p&gt;&#xA;    &lt;label for=&#34;name&#34;&gt;Nome&lt;/label&gt;&lt;br&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required style=&#34;width:100%; padding:8px;&#34;&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;p&gt;&#xA;    &lt;label for=&#34;email&#34;&gt;Email&lt;/label&gt;&lt;br&gt;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required style=&#34;width:100%; padding:8px;&#34;&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;p&gt;&#xA;    &lt;label for=&#34;message&#34;&gt;Messaggio&lt;/label&gt;&lt;br&gt;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; rows=&#34;8&#34; required style=&#34;width:100%; padding:8px;&#34;&gt;&lt;/textarea&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;p&gt;&#xA;    &lt;button type=&#34;submit&#34; style=&#34;padding:10px 20px; border:2px solid; background:white; cursor:pointer;&#34;&gt;&#xA;      Invia messaggio&#xA;    &lt;/button&gt;&#xA;  &lt;/p&gt;&#xA;&lt;/form&gt;</description>
       
     </item>
     
